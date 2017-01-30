@@ -1,0 +1,4 @@
+WebViewAndroid.MainActivity, WebViewAndroid;md55f2c7fd1268e99a20dd870461110caa7.MainActivity
+WebViewAndroid.MainActivity, WebViewAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55f2c7fd1268e99a20dd870461110caa7.MainActivity
+WebViewAndroid.MainActivity;md55f2c7fd1268e99a20dd870461110caa7.MainActivity
+webviewandroid.MainActivity;md55f2c7fd1268e99a20dd870461110caa7.MainActivity
